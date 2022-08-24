@@ -1,0 +1,12 @@
+h4{
+    color: red;
+}
+.custom-container{
+    width: 50%;
+    margin-inline: center;
+    border: 1px solid black;
+    margin-block: 100px;
+}
+.align-text{
+    text-align: center;
+}
